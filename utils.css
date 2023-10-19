@@ -140,10 +140,16 @@ padding: 20px;
 
 .section3 table td{
     /* border-right: 1px solid #f17c22;*/
-    border-bottom: 1px solid #f17c22; 
+    border-bottom: 1px solid rgb(241, 124, 34); 
     
 }
 
 .section3{
     margin: 100px 25px;
+}
+
+hr{
+  
+    background: linear-gradient(to top, white, rgb(241,124,34));
+    height:30px;
 }
